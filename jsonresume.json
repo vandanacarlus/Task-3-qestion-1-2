@@ -1,0 +1,51 @@
+let myResume=[{
+    "basics": {
+      "name": "vandana",
+      "email": "vandanacarlus@gamil.com",
+      "phone": 9141795553,
+      "degree": "B.E",
+      "location": {
+        "address": "1525,eswari nilaya, bangarpet",
+        "postalCode": 563114,
+        "Taluk": "bangarpet",
+        "state": "Karnataka",
+        "country": "India"
+      }},
+
+    "work": 
+      {
+        "company": "jesmajo",
+        "position": "Quality Manager",
+        "startDate": "2012-11-04",
+        "endDate": "2018-08-15",
+        "summary": "Over all in charge of qualiy of product",
+      },
+    
+    "education": 
+      {
+        "institution": "SCTIT",
+        "department": "Aeronautical",
+        "batch start year": 2007,
+        "batch end year": 2011,
+        "gpa": 7.5,
+      },
+    
+    "skill": 
+      {
+        "name": "javascript",
+        "level": "beginer",
+        
+      },
+    
+    "languages": 
+      {
+        "language": "Tamil,Enlish",
+      },
+    
+    "interests": 
+      {
+        "name": "script writter,youtuber,",
+      },}
+    ]
+  
+  console.log(myResume);
